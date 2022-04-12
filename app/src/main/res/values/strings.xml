@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">André Nicolau Final Project</string>
+    <string name="android_image" translatable="false">android_image</string>
+    <string name="my_favourite_place">My favourite place</string>
+    <string name="my_football_club">My football club</string>
+    <string name="creator">Creator</string>
+    <string name="creator_data">Creator data</string>
+    <string name="name">Name:</string>
+    <string name="andre_nicolau" translatable="false">André Nicolau</string>
+    <string name="cellphone">Cellphone:</string>
+    <string name="cellphone_number">+351 933 325 641</string>
+    <string name="local">Local:</string>
+    <string name="escola_profissional_montijo">Escola Profissional Montijo</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="dont_football">Since I don\'t watch football I\'l leave some football clubs</string>
+
+    <!-- Olimpico -->
+    <string name="clube_olimpico_montijo">Clube Olímpico Montijo</string>
+    <string name="site_olimpico" translatable="false">Site Clube Olímpico do Montijo</string>
+    <string name="logo_com" translatable="false">logo com</string>
+
+    <!-- Sporting -->
+    <string name="sporting_clube_de_portugal">Sporting Clube de Portugal</string>
+    <string name="site_sporting" translatable="false">Site Sporting Clube de Portugal</string>
+    <string name="logo_scp" translatable="false">logo scp</string>
+
+    <!-- Benfica -->
+    <string name="sport_lisboa_e_benfica" translatable="false">Sport Lisboa e Benfica</string>
+    <string name="site_slb" translatable="false">Site Sport Lisboa e Benfica</string>
+    <string name="logo_slb" translatable="false">logo slb</string>
+
+    <!-- Porto -->
+    <string name="futebol_clube_do_porto" translatable="false">Futebol Clube do Porto</string>
+    <string name="site_futebol_clube_do_porto" translatable="false">Site Futebol Clube do Porto</string>
+    <string name="logo_fcp" translatable="false">logo fcp</string>
+    <string name="no_website">Este clube não tem website próprio.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="creator">Criador</string>
+    <string name="my_favourite_place">O meu local favorito</string>
+    <string name="my_football_club">O meu clube de futebol</string>
+    <string name="cellphone_number">+351 933 325 641</string>
+    <string name="escola_profissional_montijo">Escola Profissional Montijo</string>
+    <string name="creator_data">Dados do Criador</string>
+    <string name="name">Nome:</string>
+    <string name="cellphone">Número de telemóvel:</string>
+    <string name="local">Local:</string>
+    <string name="app_name">André Nicolau Projeto Final</string>
+    <string name="dont_football">Como eu não vejo futebol, deixo aqui uma referência para um bom website.</string>
+    <string name="clube_olimpico_montijo">Clube Olímpico Montijo</string>
+    <string name="sporting_clube_de_portugal">Sporting Clube de Portugal</string>
+    <string name="no_website">Este clube não tem website próprio.</string>
+</resources>
