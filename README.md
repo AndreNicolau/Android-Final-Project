@@ -3,7 +3,6 @@
 ## Android Final Project
 Projeto final do ensino secundário em Android (Java).
 
-
 # **English (en)**
 
 ## Android Final Project
